@@ -16,5 +16,5 @@ A console-based application developed to manage student details and academic rec
 ## What I Learned
 * Gained a solid understanding of C++ programming logic and object lifecycle management.
 * Learned how default constructors and destructors work under the hood to allocate and release resources.
-* Practiced structuring files, debugging code, and organizing a complete C++ mini-project for a GitHub portfolio[span_2](start_span)[span_2](end_span)[span_3](start_span)[span_3](end_span).
+* Practiced structuring files, debugging code, and organizing a complete C++ mini-project for a Github portfolio
 
